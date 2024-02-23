@@ -1,5 +1,7 @@
 <?php
-include "application_class.php";
-
-date_default_timezone_set('Europe/Tallinn');
+require "build_application.php"
+/*Build application*/
+/*Query relevant details into Application class*/
+/*Translate Application class to JSONx*/
+/*Post request */
 ?>
